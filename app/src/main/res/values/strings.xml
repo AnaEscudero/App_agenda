@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Agenda_de_contactos</string>
+
+    <!-- Mensajes de error -->
+
+    <!-- Mensajes de info-->
+    <string name= "guardado_correcto">" Registration has been saved correctly "</string>
+    <string name="campos_vacios">Empty fields, try again</string>
+    <string name="title_save_button">Save</string>
+
+</resources>
